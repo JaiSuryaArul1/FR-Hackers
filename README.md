@@ -1,2 +1,6 @@
-# FR-Hackers
-Prototype of Blockchain Technology Usage
+# Medical_Records_Miniproject
+
+
+
+
+[medical_record_project](hospital.html)
